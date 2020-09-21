@@ -1,0 +1,63 @@
+html {
+    font-size: 15px;
+}
+
+body {
+    margin: 0 0 40px 0;
+
+    font-family: Tahoma, sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+hr {
+    border: none;
+    background-color: #ccc;
+    color: #ccc;
+    height: 1px;
+}
+
+.page {
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    font-size: 1rem;
+    color: rgb(47, 60, 70);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+/* Contacts
+==================*/
+
+.contacts-icon {
+    margin-right: 5px;
+}
+
+
+.photo {
+    padding: 20px 0;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+
+/* Content
+==================*/
+
+.section-header {
+    margin: 25px 0 0 0;
+}
