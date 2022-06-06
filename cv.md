@@ -40,3 +40,14 @@ Persistent and plodding in achieving the final result, ready to perform hard wor
 }
 ```
 I'm not an experienced developer at the moment, but I'm working on finding opportunities to get it.  
+
+### Education
+-------------
+#### Majoring in Logistics Management
+*National Transport University* 
+**Graduation**: 2016  
+  
+  
+### English knowledge
+-------------
+[EF SET English Certificate 70/100 (C1 Advanced)](https://www.efset.org/cert/Boc41u)
