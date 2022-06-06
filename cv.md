@@ -2,7 +2,7 @@
 ### Junior Front End Developer
 -----------
 ### Contacts
-======
+***
 * **Location:** Kyiv, Ukraine
 * **Phone:** +38073*******
 * **Email:** linadon94@gmail.com
