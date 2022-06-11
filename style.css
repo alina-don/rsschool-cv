@@ -35,5 +35,10 @@ body {
     line-height: 50px;
     text-decoration: none;
     color: rgb(33, 33, 33);
-    font-size: medium;
+    font-size: large;
+}
+
+.nav-link:hover {
+    color:firebrick;
+    transition: .3s;
 }
