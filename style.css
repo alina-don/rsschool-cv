@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     min-height: 100vh;
     margin: 0;
@@ -12,4 +16,15 @@ body {
 .footer {
     border: 1px solid red;
     margin: 0;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
