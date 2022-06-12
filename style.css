@@ -9,7 +9,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .header,
@@ -37,6 +37,7 @@ body {
     text-decoration: none;
     color: rgb(33, 33, 33);
     font-size: large;
+    font-weight: 400;
 }
 
 .nav-link:hover {
