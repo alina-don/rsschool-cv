@@ -76,6 +76,13 @@ a:hover {
     color: #59514c;
 }
 
+.photo {
+    width: 300px;
+    border-radius: 20%;
+    box-shadow: 0 1px 4px rgb(0 0 0 / 60%);
+    filter: grayscale(0.2) brightness(1.05);
+}
+
 @media (max-width: 768px) {
     .section {
         width: 100%;
