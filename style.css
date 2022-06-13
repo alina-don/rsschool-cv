@@ -14,13 +14,23 @@ body {
     flex-direction: column;
     justify-content: space-between;
     font-family: 'Noto Sans', sans-serif;
+    background-color:rgb(234, 234, 234);
+}
+
+a {
+    color: rgb(33, 33, 33);
+}
+
+a:hover {
+    color: firebrick;
+    transition: .3s;
 }
 
 .header,
 .main,
 .footer {
-    border: 1px solid red;
     margin: 0;
+    background-color:rgb(254, 255, 234);
 }
 
 .container {
@@ -28,14 +38,14 @@ body {
     margin: 0 auto;
 }
 
-.nav-list {
+.navList {
     display: flex;
     justify-content: flex-end;
     align-items: center;
     list-style: none;
 }
 
-.nav-link {
+.navLink {
     padding: 0 20px;
     line-height: 50px;
     text-decoration: none;
@@ -44,12 +54,12 @@ body {
     font-weight: 400;
 }
 
-.nav-link:hover {
-    color:firebrick;
+.navLink:hover {
+    color: firebrick;
     transition: .3s;
 }
 
-.main-container {
+.mainContainer {
     display: flex;
     flex-wrap: wrap;
 }
@@ -62,4 +72,23 @@ body {
     .section {
         width: 100%;
     }
+}
+
+.footerList {
+    list-style: none;
+    text-align: center;
+}
+
+.footerList li {
+    display: inline;
+}
+
+.footerItem {
+    padding: 0 10px;
+    color: rgb(33, 33, 33);
+    font-weight: 400;
+}
+
+.rssLogo {
+    height: 22px;
 }
