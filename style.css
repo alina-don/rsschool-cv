@@ -14,6 +14,8 @@ body {
     flex-direction: column;
     justify-content: space-between;
     font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
     background-color:rgb(234, 234, 234);
 }
 
@@ -66,6 +68,11 @@ a:hover {
 
 .section {
     width: 50%;
+}
+
+.sectionTitle {
+    letter-spacing: 2px;
+    color: #59514c;
 }
 
 @media (max-width: 768px) {
